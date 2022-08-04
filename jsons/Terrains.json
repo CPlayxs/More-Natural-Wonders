@@ -400,7 +400,7 @@
 			"Must be adjacent to [0] [Ice] tiles",
 			"Neighboring tiles will convert to [Coast]",
 			"Rare feature",
-			"Rare feature","Never receives any resources", "Natural Wonder"],
+			"Rare feature","Never receives any resources", "Natural Wonder","Generated on every [99] tiles"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
