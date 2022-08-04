@@ -393,7 +393,7 @@
 	},
 	{
 		"name": "Krakatoa",
-		"type": "TerrainFeature",
+		"type": "NaturalWonder",
 		"science": 5,
 		"occursOn": ["Ocean"],
 		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles",
